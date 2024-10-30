@@ -1,4 +1,4 @@
-#🚀 Projeto de Playlist com Java! 🎵
+# 🚀 Projeto de Playlist com Java! 🎵
 
 Na aula de hoje, estamos mergulhando em um projeto de gerenciamento de playlists utilizando Java! A ideia é criar um sistema que permita adicionar, remover, pesquisar, exibir e atualizar músicas usando uma lista duplamente ligada. 🤖
 
